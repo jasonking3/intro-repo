@@ -1,5 +1,5 @@
 # intro-repo
-Making Civilian Scientific Great Again!
+Making Cisco SEs Great Again!
 
 # contributors
 - Jason King
